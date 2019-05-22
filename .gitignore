@@ -6,6 +6,10 @@
 # testing
 /coverage
 
+# sonarqube
+/.scannerwork
+sonar-project.properties
+
 # production
 /dist
 

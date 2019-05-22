@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+    <file path="C:\Workspace\zaplanuj-to-frontend\src\components\__tests__\App.test.tsx">
+        <testCase name="renders without crashing" duration="14"/>
+        <testCase name="basic" duration="2"/>
+    </file>
+</testExecutions>
